@@ -1,2 +1,1 @@
-# OpenSourceRepoTemplate
-OpenSourceRepoTemplate
+#OpeneCampus Project
